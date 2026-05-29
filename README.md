@@ -53,22 +53,22 @@ Tool for parsing, organizing, and browsing DSA problems/resources efficiently.
 ### Single Cycle RISC-V Processor
 
 Single-cycle RISC-V processor implementation in Verilog with datapath and control unit design.
-🔗 repo-link
+🔗 https://github.com/Hassan-Raza-Shaikh/CE222
 
 ### Mood-Based Music Recommendation System
 
 Real-time emotion recognition system using OpenCV with an interactive Streamlit-based music recommendation interface.
-🔗 repo-link / linkedin-post-link
+🔗 https://www.linkedin.com/posts/emaan-swati-024290327_artificialintelligence-computervision-aiprojects-activity-7416515772631597057-w1_k?utm_source=share&utm_medium=member_ios&rcm=ACoAAFJx4RwBuA29DxLgyY-bqmnCep1hjZw0W80
 
-### Fraud Detection System
+### ML based Fraud Detection pipeline
 
 Built a fraud detection pipeline using feature engineering, SMOTE resampling, and XGBoost classification on the IEEE-CIS dataset.
-🔗 repo-link
+🔗 https://github.com/hamxa296/ML-Project-hehe
 
 ### Physics-Informed Neural Network
 
 Implemented a deep learning model for solving the heat equation using physics-constrained neural networks (PINNs).
-🔗 repo-link
+🔗 https://github.com/Hassan-Raza-Shaikh/ES446
 
 ---
 
