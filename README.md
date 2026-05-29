@@ -1,4 +1,4 @@
-# Helloooo, I'm Emaan 👋
+# Hellooo, I'm Emaan 👋
 
 CS student interested in AI, machine learning, databases, data science, Python development, web apps, and building random cool stuff along the way.
 
@@ -16,6 +16,9 @@ CS student interested in AI, machine learning, databases, data science, Python d
 * Git & GitHub
 * Cloudflare R2
 * Vercel
+* OpenCV
+* Streamlit
+* Verilog
 
 ---
 
@@ -25,13 +28,47 @@ CS student interested in AI, machine learning, databases, data science, Python d
 * Frontend Development
 * Database Systems
 * AI Automation
-* Building better UI/UX for web apps
+* Better UI/UX for web apps
+* Deep Learning
 
 ---
 
 ## 💻 Featured Projects
 
-<!-- Add your projects here -->
+### CourseHub
+
+Centralized GIKI resource hub for course material, notes, and academic resources.
+🔗 https://www.gikicoursehub.app/
+
+### Differential Equations & Linear Algebra Website
+
+Interactive educational website for visualizing and learning differential equations and linear algebra concepts.
+🔗 https://halvapuri.github.io/courses/
+
+### DSA Parser & Browser
+
+Tool for parsing, organizing, and browsing DSA problems/resources efficiently.
+🔗 https://github.com/Abdul-Rafay-246/DSA_SEM_PROJ_WEBBROWSER
+
+### Single Cycle RISC-V Processor
+
+Single-cycle RISC-V processor implementation in Verilog with datapath and control unit design.
+🔗 repo-link
+
+### Mood-Based Music Recommendation System
+
+Real-time emotion recognition system using OpenCV with an interactive Streamlit-based music recommendation interface.
+🔗 repo-link / linkedin-post-link
+
+### Fraud Detection System
+
+Built a fraud detection pipeline using feature engineering, SMOTE resampling, and XGBoost classification on the IEEE-CIS dataset.
+🔗 repo-link
+
+### Physics-Informed Neural Network
+
+Implemented a deep learning model for solving the heat equation using physics-constrained neural networks (PINNs).
+🔗 repo-link
 
 ---
 
@@ -41,6 +78,7 @@ CS student interested in AI, machine learning, databases, data science, Python d
 * AI workflows & automation
 * Better project architecture
 * Full-stack development
+* ML research ideas
 
 ---
 
