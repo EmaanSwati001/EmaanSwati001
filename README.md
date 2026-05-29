@@ -84,5 +84,5 @@ Implemented a deep learning model for solving the heat equation using physics-co
 
 ## 🌐 Connect
 
-* LinkedIn: your-link
-* Email: your-email
+* LinkedIn: https://www.linkedin.com/in/emaan-swati-024290327/
+* Email: ek139426@gmail.com
