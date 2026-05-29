@@ -1,16 +1,50 @@
-## Hi there 👋
+# Helloooo, I'm Emaan 👋
 
-<!--
-**EmaanSwati001/EmaanSwati001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student interested in AI, machine learning, databases, data science, Python development, web apps, and building random cool stuff along the way.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+* Python
+* PostgreSQL
+* Firebase / Supabase
+* MongoDB
+* Tkinter
+* React
+* scikit-learn
+* Git & GitHub
+* Cloudflare R2
+* Vercel
+
+---
+
+## 📚 Currently Learning
+
+* Machine Learning
+* Frontend Development
+* Database Systems
+* AI Automation
+* Building better UI/UX for web apps
+
+---
+
+## 💻 Featured Projects
+
+<!-- Add your projects here -->
+
+---
+
+## 🌱 Currently Exploring
+
+* Frontend experiments
+* AI workflows & automation
+* Better project architecture
+* Full-stack development
+
+---
+
+## 🌐 Connect
+
+* LinkedIn: your-link
+* Email: your-email
